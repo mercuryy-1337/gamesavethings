@@ -1,5 +1,4 @@
-{
-    "gameData": [
+[
     {
         "gameName": "Alan Wake 2",
         "processName": "AlanWake2.exe",
@@ -50,5 +49,5 @@
         "processName": "tll-l.exe",
         "savePath": "%USERPROFILE%\\Saved Games\\Uncharted Legacy of Thieves Collection"
     }
-    ]
-}
+]
+
