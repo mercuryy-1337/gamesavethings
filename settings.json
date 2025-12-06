@@ -1,53 +1,64 @@
 [
     {
+        "gridId": 5309266,
         "gameName": "Alan Wake 2",
         "processName": "AlanWake2.exe",
         "savePath": "%LOCALAPPDATA%\\Remedy\\AlanWake2"
     },
     {
+        "gridId" : 5462362,
         "gameName": "Dying Light The Beast",
         "processName": "DyingLightGame_TheBeast_x64_rwdi.exe",
         "savePath": "C:\\Users\\Public\\Public Documents\\OnlineFix"
     },
     {
+        "gridId" : 5296432,
         "gameName": "God of War Ragnarök",
         "processName": "GoWR.exe",
         "savePath": "%USERPROFILE%\\Saved Games\\God of War Ragnarök"
     },
     {
+        "gridId" : 5432247,
         "gameName": "Horizon Forbidden West",
         "processName": "HorizonForbiddenWest.exe",
         "savePath": "%USERPROFILE%\\Documents\\Horizon Forbidden West Complete Edition"
     },
     {
+        "gridId" : 5466770,
         "gameName": "Horizon Zero Dawn Remastered",
         "processName": "HorizonZeroDawnRemastered.exe",
         "savePath": "%USERPROFILE%\\Documents\\Horizon Zero Dawn Remastered"
     },
     {
+        "gridId" : 5295908,
         "gameName": "Marvel's Spider-Man 2",
         "processName": "Spider-Man2.exe",
         "savePath": "%USERPROFILE%\\Documents\\Marvel's Spider-Man 2"
     },
     {
+        "gridId" : 5249031,
         "gameName": "Red Dead Redemption 2",
         "processName": "RDR2.exe",
         "savePath": "%USERPROFILE%\\Documents\\Rockstar Games\\Red Dead Redemption 2"
     },
     {
+        "gridId" : 5335165,
         "gameName": "The Last of Us Part I",
         "processName": "tlou-i.exe",
         "savePath": "%USERPROFILE%\\Saved Games\\The Last of Us Part I"
     },
     {
+        "gridId" : 5436765,
         "gameName": "The Last of Us Part II Remastered",
         "processName": "tlou-ii.exe",
         "savePath": "%USERPROFILE%\\Documents\\The Last of Us Part II"
     },
     {
+        "gridId" : 5307973,
         "gameName": "Uncharted Legacy of Thieves Collection",
         "processName": "tll-l.exe",
         "savePath": "%USERPROFILE%\\Saved Games\\Uncharted Legacy of Thieves Collection"
     }
 ]
+
 
