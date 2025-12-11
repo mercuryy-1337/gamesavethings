@@ -20,4 +20,4 @@ jobs:
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_R2_TOKEN: ${{ secrets.CF_R2_TOKEN }}
         run: |
-          wrangler r2 object put gfn/settings.json --file ./settings.json
+          wrangler r2 object put gfn/settings.json --file ./settings.json --remote
