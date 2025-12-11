@@ -63,7 +63,7 @@
         "gridId" : 1043,
         "gameName" : "Hollow Knight: Silksong",
         "processName" : "Hollow Knight Silksong.exe",
-        "savePath" : "%%localappdata%low%\\Team Cherry\\Hollow Knight Silksong"
+        "savePath" : "%LOCALAPPDATA%low\\Team Cherry\\Hollow Knight Silksong"
     },
     {
         "gridId" : 5432247,
