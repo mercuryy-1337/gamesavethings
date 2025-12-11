@@ -3,8 +3,20 @@
         "gridId": 5309266,
         "gameName": "Alan Wake 2",
         "processName": "AlanWake2.exe",
-        "savePath": "%LOCALAPPDATA%\\Remedy\\AlanWake2",
-        "savePathAlt": ""
+        "savePath": "%LOCALAPPDATA%\\Remedy\\AlanWake2"
+    },
+    {
+        "gridId" : 5138060,
+        "gameName" : "Baldur's Gate 3",
+        "processName" : "bg3_dx11.exe",
+        "savePath" : "%LOCALAPPDATA%\\Larian Studios\\Player Profiles",
+        "savePathRune": "C:\\Users\\Public\\Documents\\OnlineFix\\1086940"
+    },
+    {
+        "gridId" :5473466,
+        "gameName" : "Dispatch",
+        "processName" : "Dispatch-win64-shipping.exe",
+        "savePath" : "%LOCALAPPDATA%\\Dispatch\\Config\\WindowsNoEditor"
     },
     {
         "gridId" : 5462362,
@@ -15,10 +27,43 @@
         "savePathGoldberg": "%APPDATA%\\Goldberg SteamEmu Saves\\3008130"
     },
     {
+        "gridId" : 5277816,
+        "gameName": "Elden Ring",
+        "processName": "eldenring.exe",
+        "savePath": "%APPDATA%\\EldenRing"
+    },
+    {
+        "gridId" : 5446016,
+        "gameName" : "Ghost of Tsushima DIRECTOR'S CUT",
+        "processName": "GhostOfTsushima.exe",
+        "savePath": "%USERPROFILE%\\Documents\\Ghost of Tsushima DIRECTOR'S CUT",
+        "savePathRune" : "C:\\Users\\Public\\Documents\\Steam\\RUNE\\2215430"
+    },
+    {
         "gridId" : 5296432,
         "gameName": "God of War Ragnarök",
         "processName": "GoWR.exe",
         "savePath": "%USERPROFILE%\\Saved Games\\God of War Ragnarök"
+    },
+    {
+        "gridId" : 6374,
+        "gameName": "Grand Theft Auto V",
+        "processName": "PlayGTAV.exe",
+        "savePath": "%USERPROFILE%\\Documents\\Rockstar Games\\GTA V",
+        "savePathGoldberg" : "%APPDATA%\\Goldberg SocialClub Emu Saves\\GTA V\\",
+        "savePathRune": "C:\\Users\\Public\\Documents\\Socialclub\\RUNE\\GTAV Enhanced"
+    },
+    {
+        "gridId" : 5267354,
+        "gameName" : "Hogwarts Legacy",
+        "processName" : "HogwartsLegacy.exe",
+        "savePath" : "%LOCALAPPDATA%\\Phoenix\\Saved\\SaveGames"
+    },
+    {
+        "gridId" : 1043,
+        "gameName" : "Hollow Knight: Silksong",
+        "processName" : "Hollow Knight Silksong.exe",
+        "savePath" : "%%localappdata%low%\\Team Cherry\\Hollow Knight Silksong"
     },
     {
         "gridId" : 5432247,
