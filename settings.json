@@ -82,7 +82,12 @@
         "gameName": "Marvel's Spider-Man 2",
         "processName": "Spider-Man2.exe",
         "savePath": "%USERPROFILE%\\Documents\\Marvel's Spider-Man 2",
-        "savePathAlt": ""
+    },
+    {
+        "gridId" : 4106,
+        "gameName" : "Metal Gear Solid V The Phantom Pain",
+        "processName" : "mgsvtpp.exe",
+        "savePath" : "%USERPROFILE%\\Documents\\CPY_SAVES\\CPY\\287700"
     },
     {
         "gridId" : 5249031,
