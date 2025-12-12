@@ -16,7 +16,7 @@
         "gridId" : 4963038,
         "gameName" : "Detroit become human",
         "processName" : "DetroitBecomeHuman.exe",
-        "savePath" : "%USERPROFILE%\\Saved Games\\Quantic Dream\\Detroit Become Human\\"
+        "savePath" : "%USERPROFILE%\\Saved Games\\Quantic Dream\\Detroit Become Human"
     },
     {
         "gridId" :5473466,
@@ -56,7 +56,7 @@
         "gameName": "Grand Theft Auto V",
         "processName": "PlayGTAV.exe",
         "savePath": "%USERPROFILE%\\Documents\\Rockstar Games\\GTA V",
-        "savePathGoldberg" : "%APPDATA%\\Goldberg SocialClub Emu Saves\\GTA V\\",
+        "savePathGoldberg" : "%APPDATA%\\Goldberg SocialClub Emu Saves\\GTA V",
         "savePathRune": "C:\\Users\\Public\\Documents\\Socialclub\\RUNE\\GTAV Enhanced"
     },
     {
@@ -88,6 +88,18 @@
         "gameName": "Marvel's Spider-Man 2",
         "processName": "Spider-Man2.exe",
         "savePath": "%USERPROFILE%\\Documents\\Marvel's Spider-Man 2"
+    },
+    {
+        "gridId" : 5354206,
+        "gameName": "Marvel's Spider-Man Miles Morales",
+        "processName" : "MilesMorales.exe",
+        "savePath": "%USERPROFILE%\\Documents\\Marvel's Spider-Man Miles Morales"
+    },
+    {
+        "gridId" : 5335465,
+        "gameName": "Marvel's Spider-Man Remastered",
+        "processName" : "Spider-Man.exe",
+        "savePath" : "%USERPROFILE%\\Documents\\Marvel's Spider-Man Remastered"
     },
     {
         "gridId" : 4106,
