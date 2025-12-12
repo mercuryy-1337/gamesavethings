@@ -14,7 +14,7 @@
     },
     {
         "gridId" : 4963038,
-        "gameName" : "Detroit: become human",
+        "gameName" : "Detroit become human",
         "processName" : "DetroitBecomeHuman.exe",
         "savePath" : "%USERPROFILE%\\Saved Games\\Quantic Dream\\Detroit Become Human\\"
     },
@@ -67,7 +67,7 @@
     },
     {
         "gridId" : 1043,
-        "gameName" : "Hollow Knight: Silksong",
+        "gameName" : "Hollow Knight Silksong",
         "processName" : "Hollow Knight Silksong.exe",
         "savePath" : "%LOCALAPPDATA%low\\Team Cherry\\Hollow Knight Silksong"
     },
