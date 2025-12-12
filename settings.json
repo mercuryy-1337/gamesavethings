@@ -13,6 +13,12 @@
         "savePathRune": "C:\\Users\\Public\\Documents\\OnlineFix\\1086940"
     },
     {
+        "gridId" : 4963038,
+        "gameName" : "Detroit: become human",
+        "processName" : "DetroitBecomeHuman.exe",
+        "savePath" : "%USERPROFILE%\\Saved Games\\Quantic Dream\\Detroit Become Human\\"
+    },
+    {
         "gridId" :5473466,
         "gameName" : "Dispatch",
         "processName" : "Dispatch-win64-shipping.exe",
