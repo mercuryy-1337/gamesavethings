@@ -131,6 +131,12 @@
         "gameName": "Uncharted Legacy of Thieves Collection",
         "processName": "tll-l.exe",
         "savePath": "%USERPROFILE%\\Saved Games\\Uncharted Legacy of Thieves Collection"
+    },
+    {
+        "gridId" : 5307973,
+        "gameName": "Uncharted Legacy of Thieves Collection",
+        "processName": "u4-l.exe",
+        "savePath": "%USERPROFILE%\\Saved Games\\Uncharted Legacy of Thieves Collection"
     }
 ]
 
