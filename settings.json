@@ -122,6 +122,12 @@
         "savePathRazor": "%APPDATA%\\.1911\\Red Dead Redemption 2"
     },
     {
+        "gridId" : 26258,
+        "gameName" : "Sekiro Shadows Die Twice",
+        "processName" : "sekiro.exe",
+        "savePath" : "%APPDATA%\\Sekiro"
+    },
+    {
         "gridId" : 5335165,
         "gameName": "The Last of Us Part I",
         "processName": "tlou-i.exe",
