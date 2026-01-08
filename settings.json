@@ -39,6 +39,12 @@
         "savePath": "%APPDATA%\\EldenRing"
     },
     {
+        "gridId" : 5444578,
+        "gameName" : "The Forever Winter",
+        "processName": "ForeverWinter.exe",
+        "savePath" : "%LOCALAPPDATA%\\ForeverWinter\\Saved\\SaveGames"
+    },
+    {
         "gridId" : 5446016,
         "gameName" : "Ghost of Tsushima DIRECTOR'S CUT",
         "processName": "GhostOfTsushima.exe",
@@ -83,6 +89,18 @@
         "gameName": "Horizon Zero Dawn Remastered",
         "processName": "HorizonZeroDawnRemastered.exe",
         "savePath": "%USERPROFILE%\\Documents\\Horizon Zero Dawn Remastered"
+    },    
+    {
+        "gridId" : 5335165,
+        "gameName": "The Last of Us Part I",
+        "processName": "tlou-i.exe",
+        "savePath": "%USERPROFILE%\\Saved Games\\The Last of Us Part I"
+    },
+    {
+        "gridId" : 5436765,
+        "gameName": "The Last of Us Part II Remastered",
+        "processName": "tlou-ii.exe",
+        "savePath": "%USERPROFILE%\\Documents\\The Last of Us Part II"
     },
     {
         "gridId" : 5295908,
@@ -127,18 +145,7 @@
         "processName" : "sekiro.exe",
         "savePath" : "%APPDATA%\\Sekiro"
     },
-    {
-        "gridId" : 5335165,
-        "gameName": "The Last of Us Part I",
-        "processName": "tlou-i.exe",
-        "savePath": "%USERPROFILE%\\Saved Games\\The Last of Us Part I"
-    },
-    {
-        "gridId" : 5436765,
-        "gameName": "The Last of Us Part II Remastered",
-        "processName": "tlou-ii.exe",
-        "savePath": "%USERPROFILE%\\Documents\\The Last of Us Part II"
-    },
+
     {
         "gridId" : 5307973,
         "gameName": "Uncharted Legacy of Thieves Collection",
