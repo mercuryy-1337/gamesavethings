@@ -145,7 +145,18 @@
         "processName" : "sekiro.exe",
         "savePath" : "%APPDATA%\\Sekiro"
     },
-
+    {
+        "gridId" : 5359291,
+        "gameName" : "Silent Hill 2 (2024)",
+        "processName": "SHProto.exe",
+        "savePath" : "%LOCALAPPDATA%\\SilentHill2\\Saved\\SaveGames"
+    },
+    {
+        "gridId" : 5359291,
+        "gameName" : "Silent Hill 2 (2024)",
+        "processName": "SHProto-Win64-Shipping.exe",
+        "savePath" : "%LOCALAPPDATA%\\SilentHill2\\Saved\\SaveGames"
+    },
     {
         "gridId" : 5307973,
         "gameName": "Uncharted Legacy of Thieves Collection",
