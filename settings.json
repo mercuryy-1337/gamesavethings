@@ -127,6 +127,13 @@
         "savePath" : "%USERPROFILE%\\Documents\\CPY_SAVES\\CPY\\287700"
     },
     {
+        "GridId": 5455449,
+        "GameName": "MIO: Memories in Orbit",
+        "ProcessName": "mio.exe",
+        "SavePath": "C:\\Users\\Public\\Documents\\MicrosoftStore\\RUNE\\MIO Memories in Orbit [78E4A1E2]",
+        "SavePathAlt": null
+    },
+    {
         "gridId" : 5352446,
         "gameName" : "Persona 5 Royal",
         "processName": "P5R.exe",
